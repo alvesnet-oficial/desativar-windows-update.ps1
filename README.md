@@ -1,0 +1,1 @@
+# desativar-windows-update.ps1
